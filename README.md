@@ -40,9 +40,7 @@ node run.mjs input.json
 - Guided controls plus editable/importable JSON input (maximum 1 MB).
 - Computed decisions, supporting records, explicit empty/error states, and
   downloadable evidence containing the input and limitations.
-- Self-hosted Space Grotesk headings and DM Sans text; 18px body text,
-  16px supporting text, 15px technical labels, keyboard focus, reduced motion,
-  and responsive evidence rows.
+- Individual visual identity: Scholarly access library, with self-hosted Source Serif 4 and Manrope, a custom masthead, readable type, visible keyboard focus, and responsive data views.
 - Independent boundary and regression tests in `tests/`.
 
 ## Scope and limitations
@@ -107,3 +105,7 @@ while signed in as Alice. The server ignores the supplied principal and
 retrieves only Alice's authorized sources. Bob's confidential source remains
 excluded. This route demonstrates real identity binding around the retrieval
 engine; generated model answers are outside scope.
+
+## Visual identity
+
+See [DESIGN.md](DESIGN.md) for this project’s typography, palette, header, and composition.
