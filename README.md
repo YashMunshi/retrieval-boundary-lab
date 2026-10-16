@@ -4,7 +4,11 @@ Enforce tenant and document permissions before ranking, caching, and creating ci
 
 **Field:** AI application & identity security  
 **Relevant roles:** AI Security Engineer · Application Security Engineer I  
-**Status:** working prototype; hosting status is tracked separately.
+**Status:** working prototype, published on GitHub and Vercel.
+
+[**Open the live interactive lab**](https://retrieval-boundary-lab.vercel.app/)
+
+The hosted lab runs synthetic exercises in your browser. See the scope below for local integration exercises and limitations.
 
 ## Run
 
